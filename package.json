@@ -1,0 +1,25 @@
+{
+  "name": "rando-trial",
+  "version": "1.0.0",
+  "description": "This project is my attempt at following the tutorial \"Deploy React and Express to Heroku\". https://daveceddia.com/deploy-react-express-app-heroku/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szewa-polyu/rando-trial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szewa-polyu/rando-trial/issues"
+  },
+  "homepage": "https://github.com/szewa-polyu/rando-trial#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "password-generator": "^2.2.0"
+  }
+}
